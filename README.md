@@ -8,7 +8,7 @@ The dataset is a treasure trove of COVID-19 data, meticulously collected and cur
 
 **Key Questions Explored:**
 
--- Global COVID-19 Cases:
+--Global COVID-19 Cases:
 We delved into the dataset to understand the overall trend of COVID-19 cases worldwide. With SQL's analytical capabilities, we visualized the rise and fall of infections over time, providing us with a comprehensive view of the pandemic's impact on a global scale.
 
 -- Hotspots and Affected Regions:
